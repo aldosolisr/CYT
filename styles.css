@@ -93,13 +93,18 @@
     color:rgb(255, 225, 89);
     font-family: monospace;
     font-size: 125%;
+    text-align: center;
+    margin: 0%;
 }
 
-.mio{
+.mio {
     background-color: rgb(255, 225, 89);
     color: rgb(2, 25, 36);
     font-family: monospace;
     font-size: 100%;
+    width: 12%;
+    text-align: center;
+    padding-bottom: 5px;
 }
 
 
@@ -107,4 +112,12 @@ a{
     text-decoration: none;
 }
 
+.diosito > p{
+    margin: 0%;
+}
 
+.powered{
+    color: white;
+    text-align: left;
+    font-size: 12%;
+}
