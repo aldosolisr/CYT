@@ -24,3 +24,4 @@ mireloj.innerHTML=mihora; //incluir hora en elemento
 }
 setInterval(actualizar,1000); //iniciar temporizador
 
+console.log("Javi");
